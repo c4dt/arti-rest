@@ -1,4 +1,11 @@
-# Lightarti-rest
+# Lightarti-rest - ARCHIVED
+
+This project has been archived by the [C4DT](https://c4dt.epfl.ch) Factory team.
+It is kept here for reference and for old URLs.
+You can find more information in our [showcase](https://factory.c4dt.org/showcase/lightarti/presentation)
+and find our contact information.
+
+## Description
 
 lightarti-rest is a simple wrapper around [arti](https://gitlab.torproject.org/tpo/core/arti) that leverages arti to enable mobile apps to easily make anonymous REST requests via the Tor network. lightarti-rest makes two changes on top of arti. First, lightarti-rest provides a simple wrapper for REST requests, to make calling HTTP(S) API endpoints easier. Second, lightarti-rest provides the option to use a customized, and therefore potentially much smaller, consensus.
 
